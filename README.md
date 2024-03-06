@@ -22,3 +22,5 @@ Connaissez-vous React et Node.js ? Si oui, fournissez une brève description de 
 Section 5 : Question bonus
 Intentions d'apprentissage :
 Pourquoi souhaitez-vous apprendre le développement Web et qu'espérez-vous réaliser en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+à vrai dis je suis une étudiante après le bac j'ai fais une pause mais je veux m'inscris dans le domaine du logiciel.
+donc avant j'aimerais me familiariser avec se domaine augmentez mes connaissance dans le domaine informatique et pourquoi pas avoir une source de revenu même en étant encore à l'université. Je veux apporter une part de moi dans ce domaine et j'espère donner le meilleurs de moi même. En plus ça me fait bizarre d'entendre les gens parler de ces sujets alors que je ne sais même pas à quoi ça sert pourtant je veux étudié ce domaine à l'université.
